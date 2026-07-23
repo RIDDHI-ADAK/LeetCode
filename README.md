@@ -9,6 +9,7 @@
 | [0238-product-of-array-except-self](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0724-find-pivot-index) |
@@ -30,6 +31,7 @@
 | [0238-product-of-array-except-self](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0724-find-pivot-index) |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
