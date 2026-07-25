@@ -13,6 +13,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -42,6 +44,7 @@
 | [0523-continuous-subarray-sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Design
 |  |
 | ------- |
