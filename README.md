@@ -57,6 +57,7 @@
 | [0523-continuous-subarray-sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Design
@@ -72,6 +73,7 @@
 | ------- |
 | [0015-3sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +94,9 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0135-candy) |
+| [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
+## String
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
