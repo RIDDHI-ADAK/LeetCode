@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0134-gas-station) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Dynamic Programming
 |  |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
