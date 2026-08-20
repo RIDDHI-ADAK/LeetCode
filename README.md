@@ -15,6 +15,7 @@
 | [0135-candy](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0015-3sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Dynamic Programming
@@ -113,4 +115,16 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
