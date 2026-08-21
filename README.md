@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0056-merge-intervals) |
@@ -33,6 +34,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0713-subarray-product-less-than-k) |
