@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0057-insert-interval) |
@@ -65,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0525-contiguous-array) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0242-valid-anagram) |
@@ -119,6 +122,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0242-valid-anagram) |
 | [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
 ## Quicksort
