@@ -66,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0242-valid-anagram) |
@@ -82,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
@@ -125,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
