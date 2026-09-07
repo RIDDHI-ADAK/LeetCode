@@ -85,6 +85,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0043-multiply-strings) |
 | [0523-continuous-subarray-sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
@@ -130,6 +131,7 @@
 | [0006-zigzag-conversion](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0242-valid-anagram) |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
