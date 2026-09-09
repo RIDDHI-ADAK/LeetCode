@@ -70,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0525-contiguous-array) |
@@ -137,6 +138,7 @@
 | [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
 ## Quicksort
@@ -171,4 +173,12 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0043-multiply-strings) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
