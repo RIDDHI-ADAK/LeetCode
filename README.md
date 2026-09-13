@@ -101,6 +101,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0647-palindromic-substrings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
@@ -122,6 +123,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
 ## Quicksort
 |  |
