@@ -96,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -114,6 +115,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -135,6 +137,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0013-roman-to-integer) |
@@ -188,4 +191,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
