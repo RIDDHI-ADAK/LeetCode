@@ -153,6 +153,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0763-partition-labels) |
 ## Quicksort
@@ -204,14 +205,17 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
