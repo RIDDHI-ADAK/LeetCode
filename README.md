@@ -148,6 +148,7 @@
 | [0043-multiply-strings](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -201,23 +202,35 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RIDDHI-ADAK/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
